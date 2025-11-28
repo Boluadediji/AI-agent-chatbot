@@ -26,3 +26,4 @@ unsupported_tool = Tool(
 )
 
 tools = [classify_tool, balance_tool, card_tool, unsupported_tool]
+
